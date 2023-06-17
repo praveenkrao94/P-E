@@ -524,6 +524,33 @@ li {
   left: 20px;
 }
 
+/* ---ex2--  */
+
+.cmp2 img {
+  width: 150px;
+  height: auto;
+}
+
+.cmp2Conteent {
+  border: 1px solid white;
+  height: 400px;
+}
+
+@media (max-width: 991.98px) {
+  .cpm1btn {
+    position: relative;
+    left: 70px;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .techbtn {
+    position: relative;
+    left: 80px;
+  }
+}
+
 /* ------------------------------------------------------------------------------------------------------------------------------- */
 
 /* ----------------------------------------------- education ------------------------------------------------------------------------- */
