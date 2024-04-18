@@ -1,6 +1,7 @@
 const textArray = [
     { text: 'Praveen Rao', color: 'rgb(0, 231, 120)' },
-    { text: 'a MERN Stack Developer', color: 'rgb(56, 56, 56)' },
+    { text: 'a Product Manager', color: 'rgb(21, 38, 189)' },
+    { text: 'a MERN Stack Developer', color: 'rgb(8, 247, 255)' },
     { text: 'a Gamer', color: 'rgb(25, 174, 228)' },
     { text: 'a DJ', color: 'rgb(0, 231, 120)' }
 ];
